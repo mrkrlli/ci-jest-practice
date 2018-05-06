@@ -1,7 +1,10 @@
 {
-    "name": "ci-jest-practice",
-    "version": "0.0.1",
-    "devDependencies": {
-        "jest": "^22.4.3"
-    }
+  "name": "ci-jest-practice",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^22.4.3"
+  }
 }
